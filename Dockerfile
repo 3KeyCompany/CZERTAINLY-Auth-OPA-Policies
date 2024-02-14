@@ -1,4 +1,4 @@
-FROM nginx:1.25.1-alpine as build
+FROM nginx:1.25.4-alpine as build
 
 MAINTAINER CZERTAINLY <support@czertainly.com>
 
